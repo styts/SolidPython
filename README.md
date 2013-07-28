@@ -90,7 +90,7 @@ impossible in pure OpenSCAD.  Among these are:
 
     *   Run the install script: 
 
-            sudo python setup.py --install
+            sudo python setup.py install
 
 # Using SolidPython<a id="using-solidpython"></a>
 *   Include SolidPython at the top of your Python file:
